@@ -7,7 +7,4 @@ Portfólio de análise de dados comerciais reais de viti-viniculturas do Rio Gra
 
 
 #link para dashboard em Pbi
-https://app.powerbi.com/view?
-r=eyJrIjoiZGQzMzMwNDktNDU5MC00MTljLTllN2QtMzU5ND
-M1ODMwZmQwIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZT
-EwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiZGQzMzMwNDktNDU5MC00MTljLTllN2QtMzU5NDM1ODMwZmQwIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
